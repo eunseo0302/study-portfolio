@@ -63,4 +63,4 @@ This is a **circular argument** — assuming the conclusion and deriving a true 
 ⇒ a^2 + b^2 ≥ 2ab  
 ⇒ (a + b)^2 ≥ 4ab  
 ⇒ (a + b)/2 ≥ √(ab)
-```
+
