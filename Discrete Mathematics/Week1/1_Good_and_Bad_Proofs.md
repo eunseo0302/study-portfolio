@@ -1,4 +1,4 @@
-# 📘 In-Class Problems – Week 1 (MIT 6.042J Discrete Mathematics)
+# 📘 In-Class Problems – Week 1-1 (MIT 6.042J Discrete Mathematics)
 
 ## 🔍 Problem 1: Identify the mistake in each bogus proof
 
@@ -58,12 +58,6 @@ a^2 - 2ab + b^2 ≥ 0
 #### 🔎 Explanation:
 Although `(a - b)^2 ≥ 0` is **true**, the proof is **invalid** because it works **backwards** from the desired conclusion.  
 This is a **circular argument** — assuming the conclusion and deriving a true statement from it does not constitute a valid proof.
-
----
-
-## ✅ Correct proof idea (for reference):
-Start from the known true inequality:
-```
 (a - b)^2 ≥ 0  
 ⇒ a^2 - 2ab + b^2 ≥ 0  
 ⇒ a^2 + b^2 ≥ 2ab  
