@@ -1,4 +1,4 @@
-# 🧠 MIT 6.042J Recitation 3 – State Machines & Invariants
+# Recitation 3 – State Machines & Invariants
 
 ## 📘 Overview
 
